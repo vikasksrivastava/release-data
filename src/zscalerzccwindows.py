@@ -50,4 +50,4 @@ for i in range(0, len(software_data), 2):
     print(version + str(date))
 
 
-#product.write()
+product.write()
