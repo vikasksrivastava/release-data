@@ -30,6 +30,7 @@ for i in range(0, len(software_data), 2):
     product.declare_version(version, date)
 """
 
+
 # Parse the HTML using BeautifulSoup
 #soup = BeautifulSoup(html_code, 'html.parser')
 
