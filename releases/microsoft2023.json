@@ -2,51 +2,51 @@
   "versions": {
     "Visual Studio 2017": {
       "name": "Visual Studio 2017",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "System Center 2022 Data Protection ManagerSystem Center 2022 Operations ManagerSystem Center 2022 OrchestratorSystem Center 2022 Service ManagerSystem Center 2022 Virtual Machine Manager": {
       "name": "System Center 2022 Data Protection ManagerSystem Center 2022 Operations ManagerSystem Center 2022 OrchestratorSystem Center 2022 Service ManagerSystem Center 2022 Virtual Machine Manager",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "SQL Server 2017": {
       "name": "SQL Server 2017",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "SQL Server 2014, Extended Security Updates Year 3": {
       "name": "SQL Server 2014, Extended Security Updates Year 3",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "October 12, 2027": {
       "name": "October 12, 2027",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "July 12, 2027": {
       "name": "July 12, 2027",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "January 12, 2027": {
       "name": "January 12, 2027",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "January 11, 2027": {
       "name": "January 11, 2027",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "HPC Pack 2016Hyper-V Server 2016Internet Information Services (IIS), IIS 10 on Windows Server 2016Microsoft .NET Framework, .NET Framework 4.6.2Microsoft System Center Configuration Manager (LTSB - version 1606)Windows 10 Enterprise LTSC 2021Windows Azure Pack (on Windows Server 2016)Windows Defender for Windows Server 2016Windows Server 2016Windows Server Update Services for Windows Server 2016Windows Storage Server 2016": {
       "name": "HPC Pack 2016Hyper-V Server 2016Internet Information Services (IIS), IIS 10 on Windows Server 2016Microsoft .NET Framework, .NET Framework 4.6.2Microsoft System Center Configuration Manager (LTSB - version 1606)Windows 10 Enterprise LTSC 2021Windows Azure Pack (on Windows Server 2016)Windows Defender for Windows Server 2016Windows Server 2016Windows Server Update Services for Windows Server 2016Windows Storage Server 2016",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)Visual Studio 2022Windows 10 IoT Enterprise LTSC 2021": {
       "name": "Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)Visual Studio 2022Windows 10 IoT Enterprise LTSC 2021",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "BizTalk Server 2016Dynamics NAV 2017Microsoft Host Integration Server 2016System Center 2016 Data ProtectionSystem Center 2016 Operations ManagerSystem Center 2016 OrchestratorSystem Center 2016 Service ManagerSystem Center 2016 Virtual Machine ManagerVisual Studio Team Foundation Server 2017": {
       "name": "BizTalk Server 2016Dynamics NAV 2017Microsoft Host Integration Server 2016System Center 2016 Data ProtectionSystem Center 2016 Operations ManagerSystem Center 2016 OrchestratorSystem Center 2016 Service ManagerSystem Center 2016 Virtual Machine ManagerVisual Studio Team Foundation Server 2017",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     },
     "April 13, 2027": {
       "name": "April 13, 2027",
-      "date": "2024-02-08"
+      "date": "2024-02-09"
     }
   }
 }
