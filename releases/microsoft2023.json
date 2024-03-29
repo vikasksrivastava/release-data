@@ -24,6 +24,10 @@
       "name": "March 31, 2027",
       "date": "2024-03-29"
     },
+    "March 15, 2027": {
+      "name": "March 15, 2027",
+      "date": "2024-03-29"
+    },
     "July 12, 2027": {
       "name": "July 12, 2027",
       "date": "2024-03-29"
@@ -40,6 +44,10 @@
       "name": "HPC Pack 2016Hyper-V Server 2016Internet Information Services (IIS), IIS 10 on Windows Server 2016Microsoft .NET Framework, .NET Framework 4.6.2Microsoft System Center Configuration Manager (LTSB - version 1606)Windows 10 Enterprise LTSC 2021Windows Azure Pack (on Windows Server 2016)Windows Defender for Windows Server 2016Windows Server 2016Windows Server Update Services for Windows Server 2016Windows Storage Server 2016",
       "date": "2024-03-29"
     },
+    "HPC Pack 2016": {
+      "name": "HPC Pack 2016",
+      "date": "2024-03-29"
+    },
     "Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)Visual Studio 2022Windows 10 IoT Enterprise LTSC 2021": {
       "name": "Dynamics 365 for Customer Engagement Apps, version 9.x (on-premises update)Visual Studio 2022Windows 10 IoT Enterprise LTSC 2021",
       "date": "2024-03-29"
@@ -48,12 +56,16 @@
       "name": "BizTalk Server 2016Dynamics NAV 2017Microsoft Host Integration Server 2016System Center 2016 Data ProtectionSystem Center 2016 Operations ManagerSystem Center 2016 OrchestratorSystem Center 2016 Service ManagerSystem Center 2016 Virtual Machine ManagerVisual Studio Team Foundation Server 2017",
       "date": "2024-03-29"
     },
+    "Azure AI Content Moderator": {
+      "name": "Azure AI Content Moderator",
+      "date": "2024-03-29"
+    },
     "April 13, 2027": {
       "name": "April 13, 2027",
       "date": "2024-03-29"
     },
-    "Application Gateway WAF v2 Config": {
-      "name": "Application Gateway WAF v2 Config",
+    "Application Gateway WAF v2 ConfigStandard_M192idms_v2 VMsStandard_M192ids_v2 VMsStandard_M192ims_v2 VMsStandard_M192is_v2 VMs": {
+      "name": "Application Gateway WAF v2 ConfigStandard_M192idms_v2 VMsStandard_M192ids_v2 VMsStandard_M192ims_v2 VMsStandard_M192is_v2 VMs",
       "date": "2024-03-29"
     }
   }
